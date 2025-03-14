@@ -1,0 +1,5 @@
+D:\Resume\project\SmartPArkingSystem\SmartPArkingSystem\obj\Debug\SmartPArkingSystem.csproj.AssemblyReference.cache
+D:\Resume\project\SmartPArkingSystem\SmartPArkingSystem\obj\Debug\SmartPArkingSystem.csproj.CoreCompileInputs.cache
+D:\Resume\project\SmartPArkingSystem\SmartPArkingSystem\obj\Debug\SmartPArkingSystem.SqlServerUnitTest1.resources
+D:\Resume\project\SmartPArkingSystem\SmartPArkingSystem\obj\Debug\SmartPArkingSystem.SqlServerUnitTest2.resources
+D:\Resume\project\SmartPArkingSystem\SmartPArkingSystem\obj\Debug\SmartPArkingSystem.csproj.GenerateResource.cache
